@@ -29,3 +29,7 @@ like so:
 ```
 nim c -r [filename].nim
 ```
+
+## VS Code extension
+There is a VS code extension to instantly run the code you write, using Ctrl + Alt + N
+shortcut. Extension name is Code Runner.
