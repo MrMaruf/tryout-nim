@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] - Create an immutable variable containing your age (in years). Print your age in days. (1 year = 365 days)
+- [X] - Create an immutable variable containing your age (in years). Print your age in days. (1 year = 365 days)
 - [ ] - Check if your age is divisible by 3. (Hint: use mod)
 - [ ] - Create an immutable variable containing your height in centimeters. Print your height in inches. (1 in = 2.54 cm)
 - [ ] - A pipe has a 3/8 inch diameter. Express the diameter in centimeters.
