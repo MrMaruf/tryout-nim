@@ -1,6 +1,6 @@
 # ToDo
 
-1. [ ] - Collatz conjecture is a popular mathematical problem with simple rules. First pick a number. If it is odd, multiply it by three and add one; if it is even, divide it by two. Repeat this procedure until you arrive at one. E.g. 5 → odd → 3\*5 + 1 = 16 → even → 16 / 2 = 8 → even → 4 → 2 → 1 → end!
+1. [X] - Collatz conjecture is a popular mathematical problem with simple rules. First pick a number. If it is odd, multiply it by three and add one; if it is even, divide it by two. Repeat this procedure until you arrive at one. E.g. 5 → odd → 3\*5 + 1 = 16 → even → 16 / 2 = 8 → even → 4 → 2 → 1 → end!
     
      Pick an integer (as a mutable variable) and create a loop which will print every step of the Collatz conjecture. (Hint: use div for division)
 2. [ ] - Create an immutable variable containing your full name. Write a for-loop which will iterate through that string and print only the vowels (a, e, i, o, u). (Hint: use case statement with multiple values per branch)
