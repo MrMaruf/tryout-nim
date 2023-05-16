@@ -33,3 +33,13 @@ nim c -r [filename].nim
 ## VS Code extension
 There is a VS code extension to instantly run the code you write, using Ctrl + Alt + N
 shortcut. Extension name is Code Runner.
+
+# ToDo
+Finish tutorial parts:
+- [X] - Finish basic types
+- [X] - Finish control flow
+- [ ] - Finish loops 
+- [ ] - Finish containers 
+- [ ] - Finish procedures
+- [ ] - Finish modules
+- [ ] - Finish working with user input
