@@ -4,7 +4,7 @@
     
      Pick an integer (as a mutable variable) and create a loop which will print every step of the Collatz conjecture. (Hint: use div for division)
 2. [X] - Create an immutable variable containing your full name. Write a for-loop which will iterate through that string and print only the vowels (a, e, i, o, u). (Hint: use case statement with multiple values per branch)
-3. [ ] - Fizz buzz is a kids game sometimes used to test basic programming knowledge. We count numbers from one upwards. If a number is divisible by 3 replace it with fizz, if it is divisible by 5 replace it with buzz, and if a number is divisible by 15 (both 3 and 5) replace it with fizzbuzz. First few rounds would look like this: 1, 2, fizz, 4, buzz, fizz, 7, …​
+3. [X] - Fizz buzz is a kids game sometimes used to test basic programming knowledge. We count numbers from one upwards. If a number is divisible by 3 replace it with fizz, if it is divisible by 5 replace it with buzz, and if a number is divisible by 15 (both 3 and 5) replace it with fizzbuzz. First few rounds would look like this: 1, 2, fizz, 4, buzz, fizz, 7, …​
      
     Create a program which will print first 30 rounds of Fizz buzz. (Hint: beware of the order of divisibility tests)
 4. [ ] - In the previous exercises you have converted inches to centimeters, and vice versa. Create a conversion table with multiple values. For example, the table might look like this:
