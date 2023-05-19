@@ -38,7 +38,7 @@ shortcut. Extension name is Code Runner.
 Finish tutorial parts:
 - [X] - Finish basic types
 - [X] - Finish control flow
-- [ ] - Finish loops 
+- [X] - Finish loops 
 - [ ] - Finish containers 
 - [ ] - Finish procedures
 - [ ] - Finish modules
