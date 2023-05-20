@@ -10,5 +10,6 @@ echo k
 l[1] = 'q'        
 echo l
 
-m[8 .. 9] = "Ba"  
+# String is technically is a sequence like object as well
+m[8 .. 9] = "Ba" # Replace "Je" with "Ba"
 echo m
