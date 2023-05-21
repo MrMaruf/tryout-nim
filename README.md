@@ -39,7 +39,7 @@ Finish tutorial parts:
 - [X] - Finish basic types
 - [X] - Finish control flow
 - [X] - Finish loops 
-- [ ] - Finish containers 
+- [X] - Finish containers 
 - [ ] - Finish procedures
 - [ ] - Finish modules
 - [ ] - Finish working with user input
