@@ -9,11 +9,11 @@
 
 2. [ ] Re-do the Collatz conjecture exercise, but this time instead of printing each step, add it to a sequence.
 
-    - [ ] - Pick a starting number. Interesting choices, among others, are 9, 19, 25 and 27.
+    - [X] - Pick a starting number. Interesting choices, among others, are 9, 19, 25 and 27.
 
     - [ ] - Create a sequence whose only member is that starting number
 
-    - [ ] - Using the same logic as before, keep adding elements to the sequence until you reach 1
+    - [X] - Using the same logic as before, keep adding elements to the sequence until you reach 1
 
     - [ ] - Print the length of the sequence, and the sequence itself
 
