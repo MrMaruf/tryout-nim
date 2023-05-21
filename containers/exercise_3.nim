@@ -1,5 +1,6 @@
 var chosen_number: int
 var reached_one: bool
+var data_holder = (longestLength: -1, startingNumber: -1)
 for index in 2..100:
     chosen_number = index
     reached_one = false
@@ -14,6 +15,12 @@ for index in 2..100:
             continue
         chosen_number = chosen_number * 3 + 1
         steps_holder.add(chosen_number)
+    let sequence_length = steps_holder.len
+    if sequence_length > data_holder.longestLength:
+        data_holder.longestLength = sequence_length
+        data_holder.startingNumber = index
     echo "Sequence starter: ", index
-    echo "Sequence length: ", steps_holder.len
+    echo "Sequence length: ", sequence_length
     echo steps_holder
+echo "Sequence starter: ", data_holder.startingNumber
+echo "Sequence length: ", data_holder.longestLength
