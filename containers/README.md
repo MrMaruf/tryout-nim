@@ -7,15 +7,15 @@
 
     - [X] - Multiply elements on even indices by 5. Print the modified array.
 
-2. [ ] Re-do the Collatz conjecture exercise, but this time instead of printing each step, add it to a sequence.
+2. [X] Re-do the Collatz conjecture exercise, but this time instead of printing each step, add it to a sequence.
 
     - [X] - Pick a starting number. Interesting choices, among others, are 9, 19, 25 and 27.
 
-    - [ ] - Create a sequence whose only member is that starting number
+    - [X] - Create a sequence whose only member is that starting number
 
     - [X] - Using the same logic as before, keep adding elements to the sequence until you reach 1
 
-    - [ ] - Print the length of the sequence, and the sequence itself
+    - [X] - Print the length of the sequence, and the sequence itself
 
 3. [ ] Find the number in a range from 2 to 100 which will produce the longest Collatz sequence.
 
