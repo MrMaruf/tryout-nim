@@ -1,11 +1,11 @@
 # ToDos
-1. [ ] Create an empty array which can contain ten integers.
+1. [X] Create an empty array which can contain ten integers.
 
     - [X] - Fill that array with numbers 10, 20, …​, 100. (Hint: use loops)
 
     - [X] - Print only the elements of that array that are on odd indices (values 20, 40, …​).
 
-    - [ ] - Multiply elements on even indices by 5. Print the modified array.
+    - [X] - Multiply elements on even indices by 5. Print the modified array.
 
 2. [ ] Re-do the Collatz conjecture exercise, but this time instead of printing each step, add it to a sequence.
 
