@@ -1,6 +1,6 @@
 1. [X] - Create a procedure which will greet a person (print "Hello <name>") based on the provided name. Create a sequence of names. Greet each person using the created procedure.
 
-2. [ ] - Create a procedure findMax3 which will return the largest of three values.
+2. [X] - Create a procedure findMax3 which will return the largest of three values.
 
 3. [ ] - Points in 2D plane can be represented as tuple[x, y: float]. Write a procedure which will receive two points and return a new point which is a sum of those two points (add x’s and y’s separately).
 
