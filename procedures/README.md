@@ -1,4 +1,4 @@
-1. [ ] - Create a procedure which will greet a person (print "Hello <name>") based on the provided name. Create a sequence of names. Greet each person using the created procedure.
+1. [X] - Create a procedure which will greet a person (print "Hello <name>") based on the provided name. Create a sequence of names. Greet each person using the created procedure.
 
 2. [ ] - Create a procedure findMax3 which will return the largest of three values.
 
