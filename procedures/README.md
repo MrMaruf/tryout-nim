@@ -2,6 +2,6 @@
 
 2. [X] - Create a procedure findMax3 which will return the largest of three values.
 
-3. [ ] - Points in 2D plane can be represented as tuple[x, y: float]. Write a procedure which will receive two points and return a new point which is a sum of those two points (add x’s and y’s separately).
+3. [X] - Points in 2D plane can be represented as tuple[x, y: float]. Write a procedure which will receive two points and return a new point which is a sum of those two points (add x’s and y’s separately).
 
 4. [ ] - Create two procedures tick and tock which echo out the words "tick" and "tock". Have a global variable to keep track of how many times they have run, and run one from the other until the counter reaches 20. The expected output is to get lines with "tick" and "tock" alternating 20 times. (Hint: use forward declarations.)
