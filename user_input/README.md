@@ -1,7 +1,7 @@
 1. [X] - Ask a user for their height and weight. Calculate their BMI. Report them the 
 BMI value and the category.
 
-2. [ ] - Repeat Collatz conjecture exercise so your program asks a user for a starting 
+2. [X] - Repeat Collatz conjecture exercise so your program asks a user for a starting 
 number. Print the resulting sequence.
 
 3. [ ] - Ask a user for a string they want to have reversed. Create a procedure which 
