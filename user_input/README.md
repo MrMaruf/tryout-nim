@@ -1,4 +1,4 @@
-1. [ ] - Ask a user for their height and weight. Calculate their BMI. Report them the 
+1. [X] - Ask a user for their height and weight. Calculate their BMI. Report them the 
 BMI value and the category.
 
 2. [ ] - Repeat Collatz conjecture exercise so your program asks a user for a starting 
