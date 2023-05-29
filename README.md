@@ -36,10 +36,5 @@ shortcut. Extension name is Code Runner.
 
 # ToDo
 Finish tutorial parts:
-- [X] - Finish basic types
-- [X] - Finish control flow
-- [X] - Finish loops 
-- [X] - Finish containers 
-- [ ] - Finish procedures
-- [ ] - Finish modules
-- [ ] - Finish working with user input
+- [X] - Finish basics
+- [ ] - Finish part of tutorial
