@@ -4,6 +4,6 @@ BMI value and the category.
 2. [X] - Repeat Collatz conjecture exercise so your program asks a user for a starting 
 number. Print the resulting sequence.
 
-3. [ ] - Ask a user for a string they want to have reversed. Create a procedure which 
+3. [X] - Ask a user for a string they want to have reversed. Create a procedure which 
 takes a string and returns a reversed version. For example, if user types Nim-lang, 
 the procedure should return gnal-miN. (Hint: use indexing and countdown)
