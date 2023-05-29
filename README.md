@@ -22,6 +22,12 @@ that you can run by typing:
 ```
 That's on Windows. I am working on Windows, so most instructions will be for Windows 
 users. Keep that in mind.
+## Production
+To compile release ready code, all you need to do is to type:
+```
+nim c -d:release [filename].nim
+```
+This will optimize the result
 
 ## 2-in-1
 You can both compile and then run the file by adding "-r" extension before the filename,
