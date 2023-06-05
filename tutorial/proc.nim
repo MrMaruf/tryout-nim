@@ -10,3 +10,13 @@ if yes("Should I delete all your important files?"):
   echo "I'm sorry Dave, I'm afraid I can't do that."
 else:
   echo "I think you know what the problem is just as well as I do."
+
+proc sumTillNegative(x: varargs[int]): int =
+  for i in x:
+    if i < 0:
+      return
+    result = result + i
+
+echo sumTillNegative() # echoes 0
+echo sumTillNegative(3, 4, 5) # echoes 12
+echo sumTillNegative(3, 4 , -1 , 6) # echoes 7
