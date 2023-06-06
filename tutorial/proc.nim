@@ -20,3 +20,13 @@ proc sumTillNegative(x: varargs[int]): int =
 echo sumTillNegative() # echoes 0
 echo sumTillNegative(3, 4, 5) # echoes 12
 echo sumTillNegative(3, 4 , -1 , 6) # echoes 7
+
+proc divmod(a, b: int; res, remainder: var int) =
+  res = a div b        # integer division
+  remainder = a mod b  # integer modulo operation
+
+var
+  x, y: int
+divmod(8, 5, x, y) # modifies x and y
+echo x
+echo y
